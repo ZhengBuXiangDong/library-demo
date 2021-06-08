@@ -1,6 +1,6 @@
 {
   "name": "@zhengyiyi/library-demo",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "测试可发布到npm的包",
   "main": "dist/webpack-numbers.js",
   "scripts": {
