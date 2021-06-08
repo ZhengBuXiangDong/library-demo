@@ -30,7 +30,7 @@ require(['@zhengyiyi/library-demo'], function (webpackNumbers) {
 ```html
 <!DOCTYPE html>
 <html>
-  <script src="https://github.com/ZhengBuXiangDong/library-demo/tree/master/dist/webpack-numbers.js"></script>
+  <script src="https://unpkg.com/@zhengyiyi/library-demo/dist/webpack-numbers.js"></script>
   <script>
     // ...
     // Global variable
